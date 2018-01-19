@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery.serializeJSON.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery.serializeJSON?ref=badge_shield)
+
 jquery.serializeJSON
 ====================
 
@@ -631,3 +633,7 @@ Author
 -------
 
 Written and maintained by [Mario Izquierdo](https://github.com/marioizquierdo)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery.serializeJSON.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery.serializeJSON?ref=badge_large)
